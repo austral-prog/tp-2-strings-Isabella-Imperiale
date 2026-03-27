@@ -14,4 +14,4 @@ def string_info():
     print("Decorada: " + str("*"*3 + palabra + "*"*3))
 
 
-string_info()
+#string_info()

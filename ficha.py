@@ -53,4 +53,4 @@ def ficha():
     print("Promedio entero: " + str((int(nota_1) + int(nota_2) + int(nota_3))//3))
     print("=" * 24)
 
-ficha()
+#ficha()

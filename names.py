@@ -16,4 +16,4 @@ def names():
     print(nom_ape.upper())
     print("\t" + nom_ape.lower())
 
-names()
+#2names()
